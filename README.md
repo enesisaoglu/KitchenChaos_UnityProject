@@ -23,4 +23,5 @@ _Implementing scoring and UI
 
 _And much more!
 
-![Uploading KitchenChaos.png…]()
+
+![KitchenChaos](https://github.com/enesisaoglu/KitchenChaos_UnityProject/assets/109024859/3657cfe8-6614-4e0a-a98f-005cc6da1a37)
